@@ -1,6 +1,8 @@
 # BigData-BERT-KorQuAD
 
-## Simpletransformer API를 사용해, BERT-multingual model을 불러와 KorQuAD v 1.0을 fine-tuning/eval/prediction 합니다.
+## Simpletransformer API를 사용해
+## BERT-multingual model을 불러와
+## KorQuAD v 1.0을 fine-tuning/eval/prediction 합니다.
 
 ### how to run?
 python3 main.py
